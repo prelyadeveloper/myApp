@@ -1,0 +1,43 @@
+page-registration {
+
+
+    .toolbar-title{
+      color: white;
+    }
+    ion-content{
+      background-image: url(../../assets/imgs/Volcan-Arenal-Costa-Rica.jpg);
+    }
+    form{
+      background: white;
+      p{
+        color: #ac5e62;
+        font-weight: bold;
+        justify-content: space-between;
+        display:flex;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 16px;
+      }
+    }
+
+    .scroll-content{
+      background: transparent;
+    }
+
+    ion-label{
+      font-weight: bold;
+      //color: white!important;
+    }
+
+    button{
+      color: #455769;
+    }
+
+    .mine{
+      .item-inner{
+        border:none!important;
+      }
+    }
+
+  }
+
